@@ -23,7 +23,24 @@
         }
       ]
     },
-    "groups": []
+    "products": [
+      {
+        "product": "212121221",
+        "dropdowns": [
+          {
+            "dropdown": "22",
+            "products": [
+              {
+                "product": "chan",
+                "pages": [
+                  "untitled-page"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
